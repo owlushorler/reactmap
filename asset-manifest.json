@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactmap/static/css/main.35e65ce7.css",
+    "main.js": "/reactmap/static/js/main.148d05d5.js",
+    "static/media/pattern-bg-desktop.png": "/reactmap/static/media/pattern-bg-desktop.5013c4f570ecf757f855.png",
+    "index.html": "/reactmap/index.html",
+    "static/media/icon-arrow.svg": "/reactmap/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
+    "main.35e65ce7.css.map": "/reactmap/static/css/main.35e65ce7.css.map",
+    "main.148d05d5.js.map": "/reactmap/static/js/main.148d05d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e65ce7.css",
+    "static/js/main.148d05d5.js"
+  ]
+}
