@@ -1,0 +1,45 @@
+.ab{
+ 
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+;
+}
+
+.abb{
+    background-color:  hsl(0, 0%, 17%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 3vw;
+    height: 3vw;
+    border-radius:0 10px 10px 0;
+    justify-content: center;
+}
+.z{
+    width: 20vw;
+    height: 2.5vw;
+    border-radius: 10px 0 0 10px;
+    margin: none;
+    outline: none;
+}
+
+.bo{display: flex;
+    
+    width: 80vw;
+    background-color: whitesmoke;
+    height: 8vw;
+    margin-bottom: -5vw;
+    top: 202px;
+    z-index: 2;
+}
+
+.abc{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-around ;
+    z-index: 0;
+    color: white;
+}

@@ -1,0 +1,63 @@
+.leaflet-container{
+    width: 100vw;
+    height: 50vw;
+}
+.bol{display: flex;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    width: 80vw;
+    background-color: whitesmoke;
+    height: 8vw;
+    margin-bottom: -5vw;
+    top: 202px;
+    margin-left: 10vw;
+    
+    align-items: center;
+    border-radius: 1vw;
+}
+
+.boo{
+    margin-left: -5vw;
+    position: absolute;
+    z-index: -1;
+    
+}
+
+.io{
+    width: 70vw;
+    height: 6vw;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.li{
+    background-color: rgba(0, 0, 0, 0.287);
+    width: .1vw;
+    height: 6vw;
+}
+.mo{
+    display: flex;
+    flex-direction: row;
+    
+    width: 17vw;
+    justify-content: space-between;
+
+}
+
+.yu{
+    color: rgba(9, 8, 8, 0.734);;
+    font-size: 1vw;
+    padding-left: 3vw;
+}
+
+
+.an{
+font-size: 1.5vw;
+color: black;
+margin-top: -1vw;
+}
